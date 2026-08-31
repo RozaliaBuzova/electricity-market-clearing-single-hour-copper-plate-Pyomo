@@ -1,0 +1,8 @@
+﻿Unit#,Node,P_{i}^{max},C_{i},Capacity_factor,City
+,,(MW),($/MWh),(-),(-)
+1,3,200,0,0.755573615,Glasgow
+2,5,200,0,0.83997045,Perth
+3,7,200,0,0.979492705,Aberdeen
+4,16,200,0,0.700360245,Liverpool
+5,21,200,0,0.42922841,Birmingham
+6,23,200,0,0.83997045,Perth2
